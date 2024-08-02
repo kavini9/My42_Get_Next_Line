@@ -103,7 +103,7 @@ char	*get_next_line(int fd)
 
 #include <fcntl.h>
 #include <stdio.h>
-
+/*
 int main()
 {
 	int fd;
@@ -121,4 +121,4 @@ int main()
 	close(fd);
 	return (0);
 }
-
+*/
