@@ -100,10 +100,10 @@ char	*get_next_line(int fd)
 }
 
 //main to test GNL function
-
+/*
 #include <fcntl.h>
 #include <stdio.h>
-/*
+
 int main()
 {
 	int fd;
